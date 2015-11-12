@@ -121,6 +121,7 @@ Projects with over 500 stargazers are in bold.
 * [Specs2 ★ 468 ⧗ 0](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
 * [µTest ★ 124 ⧗ 6](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
 * [scalaprops](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
+
 ## JSON Manipulation
 
 *Libraries for work with json.*
